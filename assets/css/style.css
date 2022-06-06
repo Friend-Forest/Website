@@ -367,8 +367,8 @@ body {
 .road_1 {
     width: 24%;
     position: absolute;
-    top: 42.5%;
-    left: 10%;
+    top: 40%;
+    left: 8%;
     font-size: 18px;
     font-weight: 500;
 }
@@ -403,7 +403,7 @@ body {
 .road_5 {
     width: 23%;
     position: absolute;
-    top: 57%;
+    top: 52%;
     left: 74%;
     font-size: 18px;
     font-weight: 500;
