@@ -320,7 +320,7 @@ body {
 .mission_detail {
     width: 550px;
     font-size: 20px;
-    text-align: justify;
+    text-align: center;
     font-weight: 600;
     margin-top: 1px;
 }
@@ -368,8 +368,8 @@ body {
 .road_1 {
     width: 24%;
     position: absolute;
-    top: 40%;
-    left: 6%;
+    top: 44%;
+    left: 7%;
     font-size: 18px;
     font-weight: 500;
 }
